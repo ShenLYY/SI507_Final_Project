@@ -3,9 +3,6 @@
 
 A graph-based music exploration and recommendation system built with Python and Streamlit. The app models musical similarity as a network — where nodes are tracks and edges connect songs with similar audio profiles — revealing connections and sonic journeys that a flat list or table cannot show.
 
-**Author:** Leyi Shen  
-**Course:** SI 507 — Intermediate Programming, University of Michigan  
-
 ---
 
 ## What It Does
