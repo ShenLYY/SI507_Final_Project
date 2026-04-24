@@ -20,7 +20,7 @@ Music Graph Explorer lets you explore 114,000+ Spotify tracks through four inter
 ## Project Structure
 
 ```text
-music_graph/
+SI507_Final_Project/
 ├── data/
 │   └── dataset.csv           # Spotify Tracks Dataset (from Kaggle)
 ├── src/
@@ -43,7 +43,7 @@ music_graph/
 
 ```bash
 git clone <your-repo-url>
-cd music_graph
+cd SI507_Final_Project
 ```
 
 ### 2. Download the dataset
